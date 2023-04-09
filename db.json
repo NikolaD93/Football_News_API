@@ -1,0 +1,70 @@
+{
+  "news": [
+    {
+      "id": 0,
+      "title": "Will Arsenal win the Premier League?",
+      "author": "John Doe",
+      "date": "9 Apr 2023",
+      "time": "12:00",
+      "tags": ["Arsenal", "Premier League", "Leandro Trossard", "Mikel Arteta"],
+      "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "subtitle": "We can win it! Says Mikel Arteta",
+      "text": "Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Cras fermentum odio eu feugiat pretium nibh ipsum. Ut diam quam nulla porttitor massa id. Donec ac odio tempor orci dapibus ultrices in. Et netus et malesuada fames ac turpis egestas. Eros in cursus turpis massa tincidunt. Tortor aliquam nulla facilisi cras fermentum odio eu. Placerat duis ultricies lacus sed turpis. Dictum varius duis at consectetur lorem. Vestibulum lorem sed risus ultricies tristique nulla. At urna condimentum mattis pellentesque id nibh tortor id. Donec et odio pellentesque diam volutpat. Sed odio morbi quis commodo odio aenean sed."
+    },
+    {
+      "id": 1,
+      "title": "Chelsea to sign Raphael Leao?",
+      "author": "John Doe",
+      "date": "10 Apr 2023",
+      "time": "13:10",
+      "tags": ["Chelsea", "Premier League", "Frank Lampard", "Raphael Leao"],
+      "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "subtitle": "The deal is really close, says Lampard",
+      "text": "Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Cras fermentum odio eu feugiat pretium nibh ipsum. Ut diam quam nulla porttitor massa id. Donec ac odio tempor orci dapibus ultrices in. Et netus et malesuada fames ac turpis egestas. Eros in cursus turpis massa tincidunt. Tortor aliquam nulla facilisi cras fermentum odio eu. Placerat duis ultricies lacus sed turpis. Dictum varius duis at consectetur lorem. Vestibulum lorem sed risus ultricies tristique nulla. At urna condimentum mattis pellentesque id nibh tortor id. Donec et odio pellentesque diam volutpat. Sed odio morbi quis commodo odio aenean sed."
+    },
+    {
+      "id": 2,
+      "title": "Man City out of the Champions League",
+      "author": "John Doe",
+      "date": "2 May 2023",
+      "time": "14:20",
+      "tags": ["Man City", "Champions League", "Erling Haaland", "Pep Guardiola"],
+      "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "subtitle": "City lost to Bayern after extra time",
+      "text": "Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Cras fermentum odio eu feugiat pretium nibh ipsum. Ut diam quam nulla porttitor massa id. Donec ac odio tempor orci dapibus ultrices in. Et netus et malesuada fames ac turpis egestas. Eros in cursus turpis massa tincidunt. Tortor aliquam nulla facilisi cras fermentum odio eu. Placerat duis ultricies lacus sed turpis. Dictum varius duis at consectetur lorem. Vestibulum lorem sed risus ultricies tristique nulla. At urna condimentum mattis pellentesque id nibh tortor id. Donec et odio pellentesque diam volutpat. Sed odio morbi quis commodo odio aenean sed."
+    },
+    {
+      "id": 3,
+      "title": "Cristiano Ronaldo back to United?",
+      "author": "John Doe",
+      "date": "02 Oct 2023",
+      "time": "15:06",
+      "tags": ["Cristiano Ronaldo", "Premier League", "Manchester United"],
+      "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "subtitle": "Ronaldo is very close to Old Traford",
+      "text": "Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Cras fermentum odio eu feugiat pretium nibh ipsum. Ut diam quam nulla porttitor massa id. Donec ac odio tempor orci dapibus ultrices in. Et netus et malesuada fames ac turpis egestas. Eros in cursus turpis massa tincidunt. Tortor aliquam nulla facilisi cras fermentum odio eu. Placerat duis ultricies lacus sed turpis. Dictum varius duis at consectetur lorem. Vestibulum lorem sed risus ultricies tristique nulla. At urna condimentum mattis pellentesque id nibh tortor id. Donec et odio pellentesque diam volutpat. Sed odio morbi quis commodo odio aenean sed."
+    },
+    {
+      "id": 4,
+      "title": "Burnley back to Premier League!",
+      "author": "John Doe",
+      "date": "7 Apr 2023",
+      "time": "22:00",
+      "tags": ["Burnley", "Premier League", "Vincent Company"],
+      "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "subtitle": "Clarets secure the promotion!!!",
+      "text": "Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Cras fermentum odio eu feugiat pretium nibh ipsum. Ut diam quam nulla porttitor massa id. Donec ac odio tempor orci dapibus ultrices in. Et netus et malesuada fames ac turpis egestas. Eros in cursus turpis massa tincidunt. Tortor aliquam nulla facilisi cras fermentum odio eu. Placerat duis ultricies lacus sed turpis. Dictum varius duis at consectetur lorem. Vestibulum lorem sed risus ultricies tristique nulla. At urna condimentum mattis pellentesque id nibh tortor id. Donec et odio pellentesque diam volutpat. Sed odio morbi quis commodo odio aenean sed."
+    },
+    {
+      "id": 5,
+      "title": "Saint are relegated",
+      "author": "John Doe",
+      "date": "15 May 2023",
+      "time": "16:45",
+      "tags": ["Southampton", "Premier League", "Relegation", "Ward-Prowse", "St Mary's Stadium"],
+      "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "subtitle": "After 15 years in the Prem, Saints are relegated",
+      "text": "Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Cras fermentum odio eu feugiat pretium nibh ipsum. Ut diam quam nulla porttitor massa id. Donec ac odio tempor orci dapibus ultrices in. Et netus et malesuada fames ac turpis egestas. Eros in cursus turpis massa tincidunt. Tortor aliquam nulla facilisi cras fermentum odio eu. Placerat duis ultricies lacus sed turpis. Dictum varius duis at consectetur lorem. Vestibulum lorem sed risus ultricies tristique nulla. At urna condimentum mattis pellentesque id nibh tortor id. Donec et odio pellentesque diam volutpat. Sed odio morbi quis commodo odio aenean sed."
+    }
+  ]
+}
