@@ -8,8 +8,8 @@
       "time": "12:00",
       "tags": ["Arsenal", "Premier League", "Leandro Trossard", "Mikel Arteta"],
       "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "subtitle": "We can win it! Says Mikel Arteta",
-      "text": "Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Cras fermentum odio eu feugiat pretium nibh ipsum. Ut diam quam nulla porttitor massa id. Donec ac odio tempor orci dapibus ultrices in. Et netus et malesuada fames ac turpis egestas. Eros in cursus turpis massa tincidunt. Tortor aliquam nulla facilisi cras fermentum odio eu. Placerat duis ultricies lacus sed turpis. Dictum varius duis at consectetur lorem. Vestibulum lorem sed risus ultricies tristique nulla. At urna condimentum mattis pellentesque id nibh tortor id. Donec et odio pellentesque diam volutpat. Sed odio morbi quis commodo odio aenean sed."
+      "subtitle": "We can win it! Says Mikel Arteta 👑",
+      "text": "Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Cras fermentum odio eu feugiat pretium nibh ipsum. Ut diam quam nulla porttitor massa id. Donec ac odio tempor orci dapibus ultrices in. Et netus et malesuada fames ac turpis egestas. Eros in cursus turpis massa tincidunt. Tortor aliquam nulla facilisi cras fermentum odio eu. Placerat duis ultricies lacus sed turpis. Dictum varius duis at consectetur lorem. Vestibulum lorem sed risus ultricies tristique nulla. At urna condimentum mattis pellentesque id nibh tortor id. Donec et odio pellentesque diam volutpat. Sed odio morbi quis commodo odio aenean sed.Vestibulum lorem sed risus ultricies tristique nulla. At urna condimentum mattis pellentesque id nibh tortor id. Donec et odio pellentesque diam volutpat. Sed odio morbi quis commodo odio aenean sed."
     },
     {
       "id": 1,
@@ -28,7 +28,12 @@
       "author": "John Doe",
       "date": "2 May 2023",
       "time": "14:20",
-      "tags": ["Man City", "Champions League", "Erling Haaland", "Pep Guardiola"],
+      "tags": [
+        "Man City",
+        "Champions League",
+        "Erling Haaland",
+        "Pep Guardiola"
+      ],
       "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "subtitle": "City lost to Bayern after extra time",
       "text": "Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Cras fermentum odio eu feugiat pretium nibh ipsum. Ut diam quam nulla porttitor massa id. Donec ac odio tempor orci dapibus ultrices in. Et netus et malesuada fames ac turpis egestas. Eros in cursus turpis massa tincidunt. Tortor aliquam nulla facilisi cras fermentum odio eu. Placerat duis ultricies lacus sed turpis. Dictum varius duis at consectetur lorem. Vestibulum lorem sed risus ultricies tristique nulla. At urna condimentum mattis pellentesque id nibh tortor id. Donec et odio pellentesque diam volutpat. Sed odio morbi quis commodo odio aenean sed."
@@ -57,11 +62,17 @@
     },
     {
       "id": 5,
-      "title": "Saint are relegated",
+      "title": "Saints are relegated (again)",
       "author": "John Doe",
       "date": "15 May 2023",
       "time": "16:45",
-      "tags": ["Southampton", "Premier League", "Relegation", "Ward-Prowse", "St Mary's Stadium"],
+      "tags": [
+        "Southampton",
+        "Premier League",
+        "Relegation",
+        "Ward-Prowse",
+        "St Mary's Stadium"
+      ],
       "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "subtitle": "After 15 years in the Prem, Saints are relegated",
       "text": "Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Cras fermentum odio eu feugiat pretium nibh ipsum. Ut diam quam nulla porttitor massa id. Donec ac odio tempor orci dapibus ultrices in. Et netus et malesuada fames ac turpis egestas. Eros in cursus turpis massa tincidunt. Tortor aliquam nulla facilisi cras fermentum odio eu. Placerat duis ultricies lacus sed turpis. Dictum varius duis at consectetur lorem. Vestibulum lorem sed risus ultricies tristique nulla. At urna condimentum mattis pellentesque id nibh tortor id. Donec et odio pellentesque diam volutpat. Sed odio morbi quis commodo odio aenean sed."
